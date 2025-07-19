@@ -15,18 +15,15 @@ HealthBot is a simple **AI health chatbot** made with Python, Google Gemini API,
 
 ## 🖥️ How to Run  
 
-1️⃣ **Install required libraries**  
-```bash
-pip install google-generativeai tk
-2️⃣ Create a config.json file with your own API key
+1️⃣ **Install required libraries** 
 
-json
-Copy code
+pip install google-generativeai tk
+
+2️⃣ **Create a config.json file with your own API key**
+
 {
   "GEMINI_API_KEY": "your-own-api-key-here"
 }
-3️⃣ Run the chatbot
+3️⃣ **Run the chatbot**
 
-bash
-Copy code
 python health_chatbot.py
