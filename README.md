@@ -1,3 +1,4 @@
+
 # 🤖 HealthBot  
 
 HealthBot is a simple **AI health chatbot** made with Python, Google Gemini API, and Tkinter GUI.  
@@ -10,6 +11,8 @@ HealthBot is a simple **AI health chatbot** made with Python, Google Gemini API,
 ✅ Shows “Thinking…” while AI responds  
 ✅ Has a GUI with Send, Clear Chat, Quit buttons  
 ✅ Remembers old chat history  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9830d90b-2b35-411d-a7fd-4c60dce0e867" />
+
 
 ---
 
@@ -27,3 +30,5 @@ pip install google-generativeai tk
 3️⃣ **Run the chatbot**
 
 python health_chatbot.py
+
+
